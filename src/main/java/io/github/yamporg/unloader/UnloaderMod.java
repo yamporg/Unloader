@@ -1,4 +1,4 @@
-package unloader;
+package io.github.yamporg.unloader;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
